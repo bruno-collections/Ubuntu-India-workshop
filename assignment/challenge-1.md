@@ -29,7 +29,7 @@ REST APIs typically return data in JSON format and use HTTP status codes to indi
 ```json
 {
     "name": "your-name",
-    "event": "FOSS India",
+    "event": "Ubuntu India",
     "love-opensource": true
 }
 ```
