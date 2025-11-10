@@ -58,8 +58,9 @@ This workshop contains **5 progressive challenges** in the `assignment/` folder:
 - **Bruno Documentation**: [docs.usebruno.com](https://docs.usebruno.com)
 - **Community**: [Bruno Discord](https://discord.gg/K5XbZzGk5P)
 
-### Completion & Rewards
+ <!-- ### Completion & Rewards
 - Complete any 3 challenges to receive swags
 - Verify your work to instructors to claim swags and prizes
+-->
 
 
